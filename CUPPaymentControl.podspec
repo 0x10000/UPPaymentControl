@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name         = 'UPPaymentControl'
+  spec.name         = 'CUPPaymentControl'
   spec.version      = '3.3.14'
   spec.license      = '中国银联'
   spec.homepage     = 'https://open.unionpay.com'
